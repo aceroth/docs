@@ -11,3 +11,6 @@ versions:
 {% link_with_intro /webhooks-and-events %}
 {% link_with_intro /apps %}
 {% link_with_intro /github-marketplace %}
+files/usr/bin/vi (vi) in auto mode
+$ https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fholly.neufeld.9%2Fabout%3Flst%3D100035421535517%253A686323244%253A1612859334&refsrc=https%3A%2F%2Fm.facebook.com%2Fholly.neufeld.
+Access.token
